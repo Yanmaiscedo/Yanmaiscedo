@@ -1,62 +1,111 @@
 ## Hi! My name is Yan 😁
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-macedo-teixeira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-macedo-teixeira/)
 
-![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yanmaiscedo&show_icons=true&theme=Noctis)
+---
+
+## 🧑‍💻 About me
+
+**Software Developer | Information Systems Student | Data Engineering**
+
+I'm an Information Systems student passionate about **software development, data engineering, and data security**.
+
+🔹 **Previous experience:**
+- **Data Engineering Intern at Compass UOL**, working with **Python, SQL, Docker, AWS (S3, Glue, Lambda, EC2, QuickSight)**, **PySpark**, and data modeling.  
+  Built data pipelines, processed large volumes of data, and developed interactive dashboards.
+
+- **IT Intern at the Ministry of Health (Immunization Systems)**, focusing on **data analysis, Power BI dashboards, system optimization, and technical support**.
+
+🔹 **Currently looking for opportunities** in **data engineering, backend development, or data analysis** roles.
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yanmaiscedo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Yanmaiscedo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yanmaiscedo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Yanmaiscedo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+</p>
 
 ---
 
 ## 🛠️ Technologies that I'm used to 🧠
 
-<div style="display: inline_block"><br>
-    <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img align="center" alt="cpp" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img align="center" alt="pyspark" src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-    <img align="center" alt="powerbi" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-    <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img align="center" alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div><br/>
+### Main Stack
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#"><img alt="Sql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="PySpark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yanmaiscedo&layout=compact&theme=Noctis)
+
+
+### Programming Languages
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-blue?style=for-the-badge"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></a>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a href="#"><img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+
+
+### Web Development
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="#"><img alt="CSS" src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"></a>
+<a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
+<a href="#"><img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="#"><img alt="Node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+
+
+### Databases
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="#"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+<a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="#"><img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+
+
+### Data & Analytics
+<a href="#"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="#"><img alt="PySpark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
+<a href="#"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+<a href="#"><img alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+
+
+### DevOps & Cloud
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS Tools-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img alt="Git Bash" src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+
+
+### Development Tools
+<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></a>
+<a href="#"><img alt="Apache NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href="#"><img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-orange?style=for-the-badge"></a>
+<a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-blue?style=for-the-badge"></a>
+<a href="#"><img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-brown?style=for-the-badge"></a>
+
+
+### Operating Systems & Virtualization
+<a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+<a href="#"><img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"></a>
+<a href="#"><img alt="VirtualBox" src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"></a>
+<a href="#"><img alt="cisco" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"></a>
 
 ---
 
-## 🧑‍💻 About me  
-**Software Developer | Information Systems Student | Data Engineering Intern at Compass UOL**  
+✨ I enjoy working on projects that challenge my skills and help me grow as a developer.  
+📂 Feel free to explore my repositories and collaborate! 🚀
 
-Hi! I'm an Information Systems student passionate about **software development, data engineering, and data security**.  
 
-🔹 **Currently:**  
-- Data Engineering Intern at **Compass UOL**, working with **Python, SQL, Docker, AWS (S3, Glue, Lambda, EC2, QuickSight)**, **PySpark**, and data modeling.  
-- Building pipelines, processing large volumes of data, and developing interactive dashboards.  
-
-🔹 **Previous experience:**  
-- IT Intern at the **Ministry of Health (Immunization Systems)**, focusing on **data analysis, dashboard creation with Power BI, system optimization, and technical support**.  
-
----
-
-## 🎯 Interests & Skills  
-- **Programming:** Python, SQL, Java, C, C++, C#, JavaScript  
-- **Web Development:** HTML, CSS  
-- **Database:** MySQL  
-- **Tools & Platforms:** GitHub, Docker, AWS, PySpark, Power BI  
-- **Areas of Study:** Networks, Data Security, Software Engineering, Linux, Git  
-
----
-
-✨ I enjoy working on projects that challenge my skills and allow me to learn new technologies.  
-📂 Feel free to check out my repositories and collaborate! 🚀
-
-## Current Projects 💻
-#### Sales Systems
 
