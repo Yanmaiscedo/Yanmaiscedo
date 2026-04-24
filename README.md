@@ -46,17 +46,17 @@ I'm an Information Systems student focused on **Data Engineering and Data Analys
 
 ## 🛠️ Tech Stack
 
-**Data & Engineering: **
-Python, SQL, PySpark, Pandas, ETL/ELT
+**Data & Engineering:**
+ Python, SQL, PySpark, Pandas, ETL/ELT
 
 **Cloud & Tools:**
-AWS (S3, Glue, Lambda), Docker, Git
+ AWS (S3, Glue, Lambda), Docker, Git
 
-**Data Visualization: **
-Power BI, QuickSight
+**Data Visualization:**
+ Power BI, QuickSight
 
-**Familiar / Studying: **
-Java, JavaScript, C, C++, C#, PHP, Node.js, HTML, CSS, React
+**Familiar / Studying:**
+ Java, JavaScript, C, C++, C#, PHP, Node.js, HTML, CSS, React
 MongoDB, Postgresql, Sqlite, PhpMyAdmin, Dbeaver
 Linux (Ubuntu), Virtualization, Kali Linux
 Cisco, XAMPP, Jupyter, Anaconda
