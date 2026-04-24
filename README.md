@@ -10,10 +10,8 @@
 
 I'm an Information Systems student focused on **Data Engineering and Data Analysis**, with hands-on experience building **data pipelines, processing large-scale data, and creating dashboards**.
 
-🔹 Former **Data Engineering Intern at Compass UOL**
-
-🔹 Experience with **Python, SQL, PySpark, AWS, and Docker**
-
+🔹 Former **Data Engineering Intern at Compass UOL**<br>
+🔹 Experience with **Python, SQL, PySpark, AWS, and Docker**<br>
 🔹 Strong background in **ETL, data modeling, and analytics**
 
 🎯 Currently seeking opportunities in **Data Engineering or Data Analysis**
@@ -22,40 +20,52 @@ I'm an Information Systems student focused on **Data Engineering and Data Analys
 
 ## 🚀 Featured Projects (Portfolio)
 
-### 📊 Data Engineering Projects
+### 📊 Data Engineering
 
-* 🔗 **[AWS Data Pipeline](#)**
-  Pipeline for data ingestion, transformation, and storage using AWS (S3 + Python)
+* 🔗 **[data-engineering-projects](https://github.com/Yanmaiscedo/data-engineering-projects/tree/main)**<br>
+  Pipeline of data engineering, ETL, storage using AWS, and insights with Quicksight
 
-* 🔗 **[Docker Data Pipeline](#)**
-  Containerized data pipeline with reproducible environment
+* 🔗 **[data-engineering-roadmap](https://github.com/Yanmaiscedo/data-engineering-roadmap)**<br>
+  A roadmap of data, for train my data skills
 
 ---
 
-### 📈 Data Analysis Projects
+### 📈 Data Analysis
 
-* 🔗 **[Google Play Store Analysis](#)**
+* 🔗 **[Google Play Store Analysis](https://github.com/Yanmaiscedo/google-play-store-data-analysis)**<br>
   Exploratory analysis and insights generation using Python
+
+* 🔗 **[data-engineering-projects](https://github.com/Yanmaiscedo/data-engineering-projects/tree/main)**<br>
+  Pipeline of data engineering, ETL, storage using AWS, and insights with Quicksight
+
+---
+
+### 🧑‍💻 College in Information Systems
+
+* 🔗 **[tech-portfolio](https://github.com/Yanmaiscedo/tech-portfolio)**<br>
+  Repository with all the projects I developed during my undergraduate studies in Information Systems.
+
+* 🔗 **[under development](https://github.com/Yanmaiscedo?tab=repositories)**
 
 ---
 
 👉 **View all projects here:**
-📂 [My Data Portfolio](#)
+📂 [Portfolio](https://github.com/Yanmaiscedo?tab=repositories)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Data & Engineering:**
+**Data & Engineering:**<br>
  Python, SQL, PySpark, Pandas, ETL/ELT
 
-**Cloud & Tools:**
+**Cloud & Tools:**<br>
  AWS (S3, Glue, Lambda), Docker, Git
 
-**Data Visualization:**
+**Data Visualization:**<br>
  Power BI, QuickSight
 
-**Familiar / Studying:**
+**Familiar / Studying:**<br>
  Java, JavaScript, C, C++, C#, PHP, Node.js, HTML, CSS, React
 MongoDB, Postgresql, Sqlite, PhpMyAdmin, Dbeaver
 Linux (Ubuntu), Virtualization, Kali Linux
